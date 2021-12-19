@@ -1,0 +1,1 @@
+worker: bash arceus-bot
