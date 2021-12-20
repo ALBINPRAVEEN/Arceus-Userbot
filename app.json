@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Don't change",
-      "value": "waruserbot",
+      "value": "arceususerbot",
       "required": false
     }
   },
