@@ -14,7 +14,7 @@
 <h3>  STRING SESSION  </h3>
   
  
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@ALBINPRAVEEN1/getStringName.run) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@ALBINPRAVEEN1/getStringName) ``Telethon``
 
 
 - Click On Generate String
