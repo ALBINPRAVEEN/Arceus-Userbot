@@ -1,8 +1,5 @@
 <h1 align="center">❤️ARCEUS_USERBOT❤️</h1>
 
-  <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
-  
-<h2 align="center">FORK AT  YOUR OUR OWN RISK</h1>
 
 <h2 align ="center">Don't forget to star this repo if you liked it.!!💝</h2>
 
