@@ -53,7 +53,7 @@ regex
 requests
 search-engine-parser
 selenium
-setuptools==65.5.1
+setuptools==70.0.0
 ShazamAPI
 spamwatch
 speedtest-cli
